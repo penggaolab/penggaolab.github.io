@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qinghong Cui | Gao Research Group</title>
+    <link>https://example.com/author/qinghong-cui/</link>
+      <atom:link href="https://example.com/author/qinghong-cui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qinghong Cui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <title>Qinghong Cui</title>
+      <link>https://example.com/author/qinghong-cui/</link>
+    </image>
+    
+    <item>
+      <title>Effects of copper and arsenic on their uptake and distribution in As-hyperaccumulator Pteris vittata</title>
+      <link>https://example.com/publication/22-m-xu-2/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-m-xu-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

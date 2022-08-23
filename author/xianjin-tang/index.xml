@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianjin Tang | Gao Research Group</title>
+    <link>https://example.com/author/xianjin-tang/</link>
+      <atom:link href="https://example.com/author/xianjin-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianjin Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <title>Xianjin Tang</title>
+      <link>https://example.com/author/xianjin-tang/</link>
+    </image>
+    
+    <item>
+      <title>Background concentrations of trace metals As, Ba, Cd, Co, Cu, Ni, Pb, Se, and Zn in 214 Florida urban soils: Different cities and land uses</title>
+      <link>https://example.com/publication/20-da-silva/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/20-da-silva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

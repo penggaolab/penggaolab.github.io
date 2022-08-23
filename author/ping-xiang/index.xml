@@ -5,18 +5,82 @@
     <link>https://example.com/author/ping-xiang/</link>
       <atom:link href="https://example.com/author/ping-xiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ping Xiang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Ping Xiang</title>
       <link>https://example.com/author/ping-xiang/</link>
     </image>
     
     <item>
+      <title>Dermal bioaccessibility and cytotoxicity of heavy metals in urban soils from a typical plateau city: Implication for human health</title>
+      <link>https://example.com/publication/22-wang/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerging and legacy PAHs in urban soils of four small cities: Concentrations, distribution, and sources</title>
+      <link>https://example.com/publication/19-gao-3/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/19-gao-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAHs in urban soils of two Florida cities: background concentrations, distribution, and sources</title>
+      <link>https://example.com/publication/19-liu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/19-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water extract of indoor dust induces tight junction disruption in normal human corneal epithelial cells</title>
+      <link>https://example.com/publication/18-xiang-2/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-xiang-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human exposure to polycyclic aromatic hydrocarbons: Metabolomics perspective</title>
+      <link>https://example.com/publication/18-gao-2/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-gao-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source identification of PAHs in soils based on stable carbon isotopic signatures</title>
+      <link>https://example.com/publication/18-gao-1/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-gao-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular responses of normal (HL-7702) and cancerous (HepG2) hepatic cells to dust extract exposure</title>
+      <link>https://example.com/publication/18-xiang-1/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-xiang-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of organophosphorus flame retardant TDCPP on normal human corneal epithelial cells: Implications for human health</title>
+      <link>https://example.com/publication/17-xiang/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/17-xiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Molecular mechanisms of PFOA-induced toxicity in animals and humans: Implications for health risks</title>
-      <link>https://example.com/publication/17-li/</link>
+      <link>https://example.com/publication/17-li-1/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-li/</guid>
+      <guid>https://example.com/publication/17-li-1/</guid>
       <description></description>
     </item>
     

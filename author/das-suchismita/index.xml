@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Das Suchismita | Gao Research Group</title>
+    <link>https://example.com/author/das-suchismita/</link>
+      <atom:link href="https://example.com/author/das-suchismita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Das Suchismita</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <title>Das Suchismita</title>
+      <link>https://example.com/author/das-suchismita/</link>
+    </image>
+    
+    <item>
+      <title>Metal concentrations in traditional and herbal teas and their potential risks to human health</title>
+      <link>https://example.com/publication/18-de-oliveira/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-de-oliveira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive effects of chromate and arsenate on their uptake and speciation in Pteris ensiformis</title>
+      <link>https://example.com/publication/17-de-oliveira/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/17-de-oliveira/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

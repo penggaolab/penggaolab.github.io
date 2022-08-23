@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yalan Liu | Gao Research Group</title>
+    <link>https://example.com/author/yalan-liu/</link>
+      <atom:link href="https://example.com/author/yalan-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yalan Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <title>Yalan Liu</title>
+      <link>https://example.com/author/yalan-liu/</link>
+    </image>
+    
+    <item>
+      <title>Emerging and legacy PAHs in urban soils of four small cities: Concentrations, distribution, and sources</title>
+      <link>https://example.com/publication/19-gao-3/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/19-gao-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
