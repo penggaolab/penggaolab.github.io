@@ -5,12 +5,20 @@
     <link>https://example.com/author/peng-gao/</link>
       <atom:link href="https://example.com/author/peng-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Peng Gao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/author/peng-gao/avatar_hu276d02e28fed798ccf2b620e3c5a3e20_54242_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Peng Gao</title>
       <link>https://example.com/author/peng-gao/</link>
     </image>
+    
+    <item>
+      <title>Molecular mechanisms of PFOA-induced toxicity in animals and humans: Implications for health risks</title>
+      <link>https://example.com/publication/17-li/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/17-li/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Catabolism of (2E)-4-hydroxy-2-nonenal via ω-and ω-1-oxidation stimulated by ketogenic diet</title>
