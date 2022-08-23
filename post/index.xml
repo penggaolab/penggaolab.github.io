@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
@@ -13,25 +13,61 @@
     </image>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://example.com/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Dr. Gao won a third place poster award at 2022 NYC Exposome Symposium</title>
+      <link>https://example.com/post/22-07-14-nyc-meetings/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-07-14-nyc-meetings/</guid>
+      <description>&lt;p&gt;Congratulations to Dr. Gao for winning a third place poster award at 2022 NYC Exposome Symposium!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://example.com/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Dr. Gao won the JESEE Young Investigator Meeting Award from International Society of Exposure Science</title>
+      <link>https://example.com/post/22-06-29-ises-award/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-06-29-ises-award/</guid>
+      <description>&lt;p&gt;Congratulations to Dr. Gao for winning JESEE Young Investigator Meeting Award from International Society of Exposure Science!&lt;/p&gt;
+&lt;p&gt;Details can be found: &lt;a href=&#34;https://intlexposurescience.org/2022-ises-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://intlexposurescience.org/2022-ises-awards/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Gao is running a special issue entitled &#34; Human Health Effects of Chemical Mixture Exposures&#34; in Chemosphere</title>
+      <link>https://example.com/post/22-06-17-chemosphere-si/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-06-17-chemosphere-si/</guid>
+      <description>&lt;p&gt;The prestigious journal Chemosphere is currently running a special issue entitled &amp;ldquo;Human Health Effects of Chemical Mixture Exposures&amp;rdquo;. As we are acting as guest editors for this issue, we would like to welcome contributions from various disciplines. We kindly invite you to consider submitting your full paper to this special issue.&lt;/p&gt;
+&lt;p&gt;Dr. Gao has served as an Editorial Board member for Chemosphere since March 2020!
+Please support this journal!&lt;/p&gt;
+&lt;p&gt;More details about this special issue can be found: &lt;a href=&#34;https://www.sciencedirect.com/journal/chemosphere/about/forthcoming-special-issues#human-health-effects-of-chemical-mixture-exposures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/journal/chemosphere/about/forthcoming-special-issues#human-health-effects-of-chemical-mixture-exposures&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Gao&#39;s exposome and multi-omics paper has been published in Genome Research as a cover article</title>
+      <link>https://example.com/post/22-06-06-gr-paper/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-06-06-gr-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Dr. Gao for pulishing the first exposome and mutlti-omics integration study in Genome Research!&lt;/p&gt;
+&lt;p&gt;Details can be found: &lt;a href=&#34;https://genome.cshlp.org/content/32/6.cover-expansion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://genome.cshlp.org/content/32/6.cover-expansion&lt;/a&gt;
+&lt;a href=&#34;https://genome.cshlp.org/content/32/6/1199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://genome.cshlp.org/content/32/6/1199&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Gao&#39;s first paper at Pitt on dermal exposure of heavy metal polluted soil has been published in Science of The Total Environment</title>
+      <link>https://example.com/post/22-04-27-stoen-paper/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-04-27-stoen-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Dr. Gao for pulishing his first acritle at Pitt entitled &amp;ldquo;Dermal bioaccessibility and cytotoxicity of heavy metals in urban soils from a typical plateau city: Implication for human health&amp;rdquo; as the co-first author in Science of The Total Environment!&lt;/p&gt;
+&lt;p&gt;Details can be found: &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0048969722026407?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0048969722026407?via%3Dihub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Gao was awarded the 2022 Excellent Reviewers Award from Critical Reviews in Environmental Science and Technology (CREST)</title>
+      <link>https://example.com/post/22-03-18-crest-award/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/22-03-18-crest-award/</guid>
+      <description>&lt;p&gt;Congratulations to Dr. Gao for being awarded the 2022 Excellent Reviewers Award from Critical Reviews in Environmental Science and Technology (CREST)!
+Dr. Gao also started to serve as a Young Editorial Board member for CREST from now on!
+Please support this journal!&lt;/p&gt;
+&lt;p&gt;More details about CREST can be found: &lt;a href=&#34;https://www.tandfonline.com/journals/best20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tandfonline.com/journals/best20&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

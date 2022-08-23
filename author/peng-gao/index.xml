@@ -5,62 +5,43 @@
     <link>https://example.com/author/peng-gao/</link>
       <atom:link href="https://example.com/author/peng-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Peng Gao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/peng-gao/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/peng-gao/avatar_hu276d02e28fed798ccf2b620e3c5a3e20_54242_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Peng Gao</title>
       <link>https://example.com/author/peng-gao/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Catabolism of (2E)-4-hydroxy-2-nonenal via ω-and ω-1-oxidation stimulated by ketogenic diet</title>
+      <link>https://example.com/publication/14-jin/</link>
+      <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/14-jin/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>2022 best paper</title>
-      <link>https://example.com/publication/gao2022/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gao2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Slow-Injection Ultrasound-Assisted Emulsiﬁcation–Microextraction for Determination of Phthalate Esters in Water</title>
+      <link>https://example.com/publication/14-li/</link>
+      <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/14-li/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Ionic liquid-based totally organic solvent-free emulsification microextraction coupled with high performance liquid chromatography for the determination of three acaricides in fruit juice</title>
+      <link>https://example.com/publication/13-zhang/</link>
+      <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/13-zhang/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Sequential dispersive liquid–liquid microextraction for the determination of aryloxyphenoxy‐propionate herbicides in water</title>
+      <link>https://example.com/publication/12-li/</link>
+      <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/12-li/</guid>
+      <description></description>
     </item>
     
   </channel>
