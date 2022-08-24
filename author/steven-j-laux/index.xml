@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven J Laux | Gao Research Group</title>
-    <link>https://example.com/author/steven-j-laux/</link>
-      <atom:link href="https://example.com/author/steven-j-laux/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/author/steven-j-laux/</link>
+      <atom:link href="https://penggaolab.github.io/author/steven-j-laux/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven J Laux</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Steven J Laux</title>
-      <link>https://example.com/author/steven-j-laux/</link>
+      <link>https://penggaolab.github.io/author/steven-j-laux/</link>
     </image>
     
     <item>
       <title>Polycyclic aromatic hydrocarbons in processed yard trash</title>
-      <link>https://example.com/publication/20-guo/</link>
+      <link>https://penggaolab.github.io/publication/20-guo/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/20-guo/</guid>
+      <guid>https://penggaolab.github.io/publication/20-guo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribution of asphalt products to total and bioaccessible polycyclic aromatic hydrocarbons</title>
-      <link>https://example.com/publication/19-su/</link>
+      <link>https://penggaolab.github.io/publication/19-su/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-su/</guid>
+      <guid>https://penggaolab.github.io/publication/19-su/</guid>
       <description></description>
     </item>
     

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | Gao Research Group</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/post/</link>
+      <atom:link href="https://penggaolab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
-      <link>https://example.com/post/</link>
+      <link>https://penggaolab.github.io/post/</link>
     </image>
     
     <item>
       <title>Dr. Gao won a third place poster award at 2022 NYC Exposome Symposium</title>
-      <link>https://example.com/post/22-07-14-nyc-meetings/</link>
+      <link>https://penggaolab.github.io/post/22-07-14-nyc-meetings/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-07-14-nyc-meetings/</guid>
+      <guid>https://penggaolab.github.io/post/22-07-14-nyc-meetings/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for winning a third place poster award at 2022 NYC Exposome Symposium!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao won the JESEE Young Investigator Meeting Award from International Society of Exposure Science</title>
-      <link>https://example.com/post/22-06-29-ises-award/</link>
+      <link>https://penggaolab.github.io/post/22-06-29-ises-award/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-29-ises-award/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-29-ises-award/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for winning JESEE Young Investigator Meeting Award from International Society of Exposure Science!&lt;/p&gt;
 &lt;p&gt;Details can be found: &lt;a href=&#34;https://intlexposurescience.org/2022-ises-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://intlexposurescience.org/2022-ises-awards/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao is running a special issue entitled &#34; Human Health Effects of Chemical Mixture Exposures&#34; in Chemosphere</title>
-      <link>https://example.com/post/22-06-17-chemosphere-si/</link>
+      <link>https://penggaolab.github.io/post/22-06-17-chemosphere-si/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-17-chemosphere-si/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-17-chemosphere-si/</guid>
       <description>&lt;p&gt;The prestigious journal Chemosphere is currently running a special issue entitled &amp;ldquo;Human Health Effects of Chemical Mixture Exposures&amp;rdquo;. As we are acting as guest editors for this issue, we would like to welcome contributions from various disciplines. We kindly invite you to consider submitting your full paper to this special issue.&lt;/p&gt;
 &lt;p&gt;Dr. Gao has served as an Editorial Board member for Chemosphere since March 2020!
 Please support this journal!&lt;/p&gt;
@@ -42,18 +42,18 @@ Please support this journal!&lt;/p&gt;
     
     <item>
       <title>Dr. Gao&#39;s Genome Research paper has been reported by GenomeWeb</title>
-      <link>https://example.com/post/22-06-08-genomeweb-report/</link>
+      <link>https://penggaolab.github.io/post/22-06-08-genomeweb-report/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-08-genomeweb-report/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-08-genomeweb-report/</guid>
       <description>&lt;p&gt;Our Genome Research paper entitled &amp;ldquo;Precision environmental health monitoring by longitudinal exposome and multi-omics profiling&amp;rdquo; has been reported by GenomeWeb (an online news organization established in 1997 which aims to report scientific and business news related to genomics).&lt;/p&gt;
 &lt;p&gt;More details can be found: &lt;a href=&#34;https://www.genomeweb.com/scan/genome-research-papers-precision-health-monitoring-snake-venom-infant-gut-microbes#.YwVzb-zMLBM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.genomeweb.com/scan/genome-research-papers-precision-health-monitoring-snake-venom-infant-gut-microbes#.YwVzb-zMLBM&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao&#39;s exposome and multi-omics paper has been published in Genome Research as a cover article</title>
-      <link>https://example.com/post/22-06-06-gr-paper/</link>
+      <link>https://penggaolab.github.io/post/22-06-06-gr-paper/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-06-gr-paper/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-06-gr-paper/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for pulishing the first exposome and mutlti-omics integration study in Genome Research!&lt;/p&gt;
 &lt;p&gt;Details can be found: &lt;a href=&#34;https://genome.cshlp.org/content/32/6.cover-expansion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://genome.cshlp.org/content/32/6.cover-expansion&lt;/a&gt;
 &lt;a href=&#34;https://genome.cshlp.org/content/32/6/1199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://genome.cshlp.org/content/32/6/1199&lt;/a&gt;&lt;/p&gt;</description>
@@ -61,18 +61,18 @@ Please support this journal!&lt;/p&gt;
     
     <item>
       <title>Dr. Gao&#39;s first paper at Pitt on dermal exposure of heavy metal polluted soil has been published in Science of The Total Environment</title>
-      <link>https://example.com/post/22-04-27-stoen-paper/</link>
+      <link>https://penggaolab.github.io/post/22-04-27-stoen-paper/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-04-27-stoen-paper/</guid>
+      <guid>https://penggaolab.github.io/post/22-04-27-stoen-paper/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for pulishing his first acritle at Pitt entitled &amp;ldquo;Dermal bioaccessibility and cytotoxicity of heavy metals in urban soils from a typical plateau city: Implication for human health&amp;rdquo; as the co-first author in Science of The Total Environment!&lt;/p&gt;
 &lt;p&gt;Details can be found: &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0048969722026407?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0048969722026407?via%3Dihub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao was awarded the 2022 Excellent Reviewers Award from Critical Reviews in Environmental Science and Technology (CREST)</title>
-      <link>https://example.com/post/22-03-18-crest-award/</link>
+      <link>https://penggaolab.github.io/post/22-03-18-crest-award/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-03-18-crest-award/</guid>
+      <guid>https://penggaolab.github.io/post/22-03-18-crest-award/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for being awarded the 2022 Excellent Reviewers Award from Critical Reviews in Environmental Science and Technology (CREST)!
 Dr. Gao also started to serve as a Young Editorial Board member for CREST from now on!
 Please support this journal!&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dongxing Guan | Gao Research Group</title>
-    <link>https://example.com/author/dongxing-guan/</link>
-      <atom:link href="https://example.com/author/dongxing-guan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/author/dongxing-guan/</link>
+      <atom:link href="https://penggaolab.github.io/author/dongxing-guan/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongxing Guan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Dongxing Guan</title>
-      <link>https://example.com/author/dongxing-guan/</link>
+      <link>https://penggaolab.github.io/author/dongxing-guan/</link>
     </image>
     
     <item>
       <title>Background concentrations of trace metals As, Ba, Cd, Co, Cu, Ni, Pb, Se, and Zn in 214 Florida urban soils: Different cities and land uses</title>
-      <link>https://example.com/publication/20-da-silva/</link>
+      <link>https://penggaolab.github.io/publication/20-da-silva/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/20-da-silva/</guid>
+      <guid>https://penggaolab.github.io/publication/20-da-silva/</guid>
       <description></description>
     </item>
     

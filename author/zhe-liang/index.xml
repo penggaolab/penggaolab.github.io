@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhe Liang | Gao Research Group</title>
-    <link>https://example.com/author/zhe-liang/</link>
-      <atom:link href="https://example.com/author/zhe-liang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/author/zhe-liang/</link>
+      <atom:link href="https://penggaolab.github.io/author/zhe-liang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhe Liang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Zhe Liang</title>
-      <link>https://example.com/author/zhe-liang/</link>
+      <link>https://penggaolab.github.io/author/zhe-liang/</link>
     </image>
     
     <item>
       <title>Ionic liquid-based totally organic solvent-free emulsification microextraction coupled with high performance liquid chromatography for the determination of three acaricides in fruit juice</title>
-      <link>https://example.com/publication/13-zhang/</link>
+      <link>https://penggaolab.github.io/publication/13-zhang/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/13-zhang/</guid>
+      <guid>https://penggaolab.github.io/publication/13-zhang/</guid>
       <description></description>
     </item>
     

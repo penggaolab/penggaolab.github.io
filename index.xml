@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gao Research Group</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/</link>
+      <atom:link href="https://penggaolab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gao Research Group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Gao Research Group</title>
-      <link>https://example.com/</link>
+      <link>https://penggaolab.github.io/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://example.com/event/example/</link>
+      <link>https://penggaolab.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <guid>https://penggaolab.github.io/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,50 +29,50 @@
     
     <item>
       <title>Dermal bioaccessibility and cytotoxicity of heavy metals in urban soils from a typical plateau city: Implication for human health</title>
-      <link>https://example.com/publication/22-wang/</link>
+      <link>https://penggaolab.github.io/publication/22-wang/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-wang/</guid>
+      <guid>https://penggaolab.github.io/publication/22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity</title>
-      <link>https://example.com/publication/22-zhang/</link>
+      <link>https://penggaolab.github.io/publication/22-zhang/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-zhang/</guid>
+      <guid>https://penggaolab.github.io/publication/22-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TidyMass an object-oriented reproducible analysis framework for LC–MS data</title>
-      <link>https://example.com/publication/22-shen/</link>
+      <link>https://penggaolab.github.io/publication/22-shen/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-shen/</guid>
+      <guid>https://penggaolab.github.io/publication/22-shen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dr. Gao won a third place poster award at 2022 NYC Exposome Symposium</title>
-      <link>https://example.com/post/22-07-14-nyc-meetings/</link>
+      <link>https://penggaolab.github.io/post/22-07-14-nyc-meetings/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-07-14-nyc-meetings/</guid>
+      <guid>https://penggaolab.github.io/post/22-07-14-nyc-meetings/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for winning a third place poster award at 2022 NYC Exposome Symposium!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao won the JESEE Young Investigator Meeting Award from International Society of Exposure Science</title>
-      <link>https://example.com/post/22-06-29-ises-award/</link>
+      <link>https://penggaolab.github.io/post/22-06-29-ises-award/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-29-ises-award/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-29-ises-award/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for winning JESEE Young Investigator Meeting Award from International Society of Exposure Science!&lt;/p&gt;
 &lt;p&gt;Details can be found: &lt;a href=&#34;https://intlexposurescience.org/2022-ises-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://intlexposurescience.org/2022-ises-awards/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao is running a special issue entitled &#34; Human Health Effects of Chemical Mixture Exposures&#34; in Chemosphere</title>
-      <link>https://example.com/post/22-06-17-chemosphere-si/</link>
+      <link>https://penggaolab.github.io/post/22-06-17-chemosphere-si/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-17-chemosphere-si/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-17-chemosphere-si/</guid>
       <description>&lt;p&gt;The prestigious journal Chemosphere is currently running a special issue entitled &amp;ldquo;Human Health Effects of Chemical Mixture Exposures&amp;rdquo;. As we are acting as guest editors for this issue, we would like to welcome contributions from various disciplines. We kindly invite you to consider submitting your full paper to this special issue.&lt;/p&gt;
 &lt;p&gt;Dr. Gao has served as an Editorial Board member for Chemosphere since March 2020!
 Please support this journal!&lt;/p&gt;
@@ -81,18 +81,18 @@ Please support this journal!&lt;/p&gt;
     
     <item>
       <title>Dr. Gao&#39;s Genome Research paper has been reported by GenomeWeb</title>
-      <link>https://example.com/post/22-06-08-genomeweb-report/</link>
+      <link>https://penggaolab.github.io/post/22-06-08-genomeweb-report/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-08-genomeweb-report/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-08-genomeweb-report/</guid>
       <description>&lt;p&gt;Our Genome Research paper entitled &amp;ldquo;Precision environmental health monitoring by longitudinal exposome and multi-omics profiling&amp;rdquo; has been reported by GenomeWeb (an online news organization established in 1997 which aims to report scientific and business news related to genomics).&lt;/p&gt;
 &lt;p&gt;More details can be found: &lt;a href=&#34;https://www.genomeweb.com/scan/genome-research-papers-precision-health-monitoring-snake-venom-infant-gut-microbes#.YwVzb-zMLBM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.genomeweb.com/scan/genome-research-papers-precision-health-monitoring-snake-venom-infant-gut-microbes#.YwVzb-zMLBM&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao&#39;s exposome and multi-omics paper has been published in Genome Research as a cover article</title>
-      <link>https://example.com/post/22-06-06-gr-paper/</link>
+      <link>https://penggaolab.github.io/post/22-06-06-gr-paper/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-06-06-gr-paper/</guid>
+      <guid>https://penggaolab.github.io/post/22-06-06-gr-paper/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for pulishing the first exposome and mutlti-omics integration study in Genome Research!&lt;/p&gt;
 &lt;p&gt;Details can be found: &lt;a href=&#34;https://genome.cshlp.org/content/32/6.cover-expansion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://genome.cshlp.org/content/32/6.cover-expansion&lt;/a&gt;
 &lt;a href=&#34;https://genome.cshlp.org/content/32/6/1199&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://genome.cshlp.org/content/32/6/1199&lt;/a&gt;&lt;/p&gt;</description>
@@ -100,34 +100,34 @@ Please support this journal!&lt;/p&gt;
     
     <item>
       <title>Precision environmental health monitoring by longitudinal exposome and multi-omics profiling</title>
-      <link>https://example.com/publication/22-gao/</link>
+      <link>https://penggaolab.github.io/publication/22-gao/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-gao/</guid>
+      <guid>https://penggaolab.github.io/publication/22-gao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of copper and arsenic on their uptake and distribution in As-hyperaccumulator Pteris vittata</title>
-      <link>https://example.com/publication/22-m-xu-2/</link>
+      <link>https://penggaolab.github.io/publication/22-m-xu-2/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-m-xu-2/</guid>
+      <guid>https://penggaolab.github.io/publication/22-m-xu-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dr. Gao&#39;s first paper at Pitt on dermal exposure of heavy metal polluted soil has been published in Science of The Total Environment</title>
-      <link>https://example.com/post/22-04-27-stoen-paper/</link>
+      <link>https://penggaolab.github.io/post/22-04-27-stoen-paper/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-04-27-stoen-paper/</guid>
+      <guid>https://penggaolab.github.io/post/22-04-27-stoen-paper/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for pulishing his first acritle at Pitt entitled &amp;ldquo;Dermal bioaccessibility and cytotoxicity of heavy metals in urban soils from a typical plateau city: Implication for human health&amp;rdquo; as the co-first author in Science of The Total Environment!&lt;/p&gt;
 &lt;p&gt;Details can be found: &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0048969722026407?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0048969722026407?via%3Dihub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dr. Gao was awarded the 2022 Excellent Reviewers Award from Critical Reviews in Environmental Science and Technology (CREST)</title>
-      <link>https://example.com/post/22-03-18-crest-award/</link>
+      <link>https://penggaolab.github.io/post/22-03-18-crest-award/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/22-03-18-crest-award/</guid>
+      <guid>https://penggaolab.github.io/post/22-03-18-crest-award/</guid>
       <description>&lt;p&gt;Congratulations to Dr. Gao for being awarded the 2022 Excellent Reviewers Award from Critical Reviews in Environmental Science and Technology (CREST)!
 Dr. Gao also started to serve as a Young Editorial Board member for CREST from now on!
 Please support this journal!&lt;/p&gt;
@@ -136,281 +136,281 @@ Please support this journal!&lt;/p&gt;
     
     <item>
       <title>Endocrine disrupting toxicity of aryl organophosphate esters and mode of action</title>
-      <link>https://example.com/publication/22-hu/</link>
+      <link>https://penggaolab.github.io/publication/22-hu/</link>
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-hu/</guid>
+      <guid>https://penggaolab.github.io/publication/22-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biochar promotes arsenic sequestration on iron plaques and cell walls in rice roots</title>
-      <link>https://example.com/publication/22-m-xu-1/</link>
+      <link>https://penggaolab.github.io/publication/22-m-xu-1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-m-xu-1/</guid>
+      <guid>https://penggaolab.github.io/publication/22-m-xu-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photochemical impacts on the toxicity of PM2.5</title>
-      <link>https://example.com/publication/22-j-xu/</link>
+      <link>https://penggaolab.github.io/publication/22-j-xu/</link>
       <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-j-xu/</guid>
+      <guid>https://penggaolab.github.io/publication/22-j-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exposome-wide Association Study for Metabolic Syndrome</title>
-      <link>https://example.com/publication/21-gao-2/</link>
+      <link>https://penggaolab.github.io/publication/21-gao-2/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/21-gao-2/</guid>
+      <guid>https://penggaolab.github.io/publication/21-gao-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Exposome in the Era of the Quantified Self</title>
-      <link>https://example.com/publication/21-zhang/</link>
+      <link>https://penggaolab.github.io/publication/21-zhang/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/21-zhang/</guid>
+      <guid>https://penggaolab.github.io/publication/21-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decoding personal biotic and abiotic airborne exposome</title>
-      <link>https://example.com/publication/21-jiang/</link>
+      <link>https://penggaolab.github.io/publication/21-jiang/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/21-jiang/</guid>
+      <guid>https://penggaolab.github.io/publication/21-jiang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Exposome in the Era of One Health</title>
-      <link>https://example.com/publication/21-gao-1/</link>
+      <link>https://penggaolab.github.io/publication/21-gao-1/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/21-gao-1/</guid>
+      <guid>https://penggaolab.github.io/publication/21-gao-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Background concentrations of trace metals As, Ba, Cd, Co, Cu, Ni, Pb, Se, and Zn in 214 Florida urban soils: Different cities and land uses</title>
-      <link>https://example.com/publication/20-da-silva/</link>
+      <link>https://penggaolab.github.io/publication/20-da-silva/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/20-da-silva/</guid>
+      <guid>https://penggaolab.github.io/publication/20-da-silva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polycyclic aromatic hydrocarbons in processed yard trash</title>
-      <link>https://example.com/publication/20-guo/</link>
+      <link>https://penggaolab.github.io/publication/20-guo/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/20-guo/</guid>
+      <guid>https://penggaolab.github.io/publication/20-guo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biochar impact on chromium accumulation by rice through Fe microbial-induced redox transformation</title>
-      <link>https://example.com/publication/20-xu/</link>
+      <link>https://penggaolab.github.io/publication/20-xu/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/20-xu/</guid>
+      <guid>https://penggaolab.github.io/publication/20-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applications and challenges of elemental sulfur, nanosulfur, polymeric sulfur, sulfur composites, and plasmonic nanostructures</title>
-      <link>https://example.com/publication/19-teng/</link>
+      <link>https://penggaolab.github.io/publication/19-teng/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-teng/</guid>
+      <guid>https://penggaolab.github.io/publication/19-teng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging and legacy PAHs in urban soils of four small cities: Concentrations, distribution, and sources</title>
-      <link>https://example.com/publication/19-gao-3/</link>
+      <link>https://penggaolab.github.io/publication/19-gao-3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-gao-3/</guid>
+      <guid>https://penggaolab.github.io/publication/19-gao-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging PAHs in urban soils: concentrations, bioaccessibility, and spatial distribution</title>
-      <link>https://example.com/publication/19-gao-2/</link>
+      <link>https://penggaolab.github.io/publication/19-gao-2/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-gao-2/</guid>
+      <guid>https://penggaolab.github.io/publication/19-gao-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biochar impacts on phosphorus cycling in rice ecosystem</title>
-      <link>https://example.com/publication/19-xu/</link>
+      <link>https://penggaolab.github.io/publication/19-xu/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-xu/</guid>
+      <guid>https://penggaolab.github.io/publication/19-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribution of asphalt products to total and bioaccessible polycyclic aromatic hydrocarbons</title>
-      <link>https://example.com/publication/19-su/</link>
+      <link>https://penggaolab.github.io/publication/19-su/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-su/</guid>
+      <guid>https://penggaolab.github.io/publication/19-su/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial and temporal changes of P and Ca distribution and fractionation in soil and sediment in a karst farmland-wetland system</title>
-      <link>https://example.com/publication/19-gao-1/</link>
+      <link>https://penggaolab.github.io/publication/19-gao-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-gao-1/</guid>
+      <guid>https://penggaolab.github.io/publication/19-gao-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PAHs in urban soils of two Florida cities: background concentrations, distribution, and sources</title>
-      <link>https://example.com/publication/19-liu/</link>
+      <link>https://penggaolab.github.io/publication/19-liu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-liu/</guid>
+      <guid>https://penggaolab.github.io/publication/19-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Water extract of indoor dust induces tight junction disruption in normal human corneal epithelial cells</title>
-      <link>https://example.com/publication/18-xiang-2/</link>
+      <link>https://penggaolab.github.io/publication/18-xiang-2/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-xiang-2/</guid>
+      <guid>https://penggaolab.github.io/publication/18-xiang-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human exposure to polycyclic aromatic hydrocarbons: Metabolomics perspective</title>
-      <link>https://example.com/publication/18-gao-2/</link>
+      <link>https://penggaolab.github.io/publication/18-gao-2/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-gao-2/</guid>
+      <guid>https://penggaolab.github.io/publication/18-gao-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source identification of PAHs in soils based on stable carbon isotopic signatures</title>
-      <link>https://example.com/publication/18-gao-1/</link>
+      <link>https://penggaolab.github.io/publication/18-gao-1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-gao-1/</guid>
+      <guid>https://penggaolab.github.io/publication/18-gao-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metal concentrations in traditional and herbal teas and their potential risks to human health</title>
-      <link>https://example.com/publication/18-de-oliveira/</link>
+      <link>https://penggaolab.github.io/publication/18-de-oliveira/</link>
       <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-de-oliveira/</guid>
+      <guid>https://penggaolab.github.io/publication/18-de-oliveira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular responses of normal (HL-7702) and cancerous (HepG2) hepatic cells to dust extract exposure</title>
-      <link>https://example.com/publication/18-xiang-1/</link>
+      <link>https://penggaolab.github.io/publication/18-xiang-1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-xiang-1/</guid>
+      <guid>https://penggaolab.github.io/publication/18-xiang-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioaccessibility of PAHs in contaminated soils: Comparison of five in vitro methods with Tenax as a sorption sink</title>
-      <link>https://example.com/publication/17-zhang/</link>
+      <link>https://penggaolab.github.io/publication/17-zhang/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-zhang/</guid>
+      <guid>https://penggaolab.github.io/publication/17-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive effects of chromate and arsenate on their uptake and speciation in Pteris ensiformis</title>
-      <link>https://example.com/publication/17-de-oliveira/</link>
+      <link>https://penggaolab.github.io/publication/17-de-oliveira/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-de-oliveira/</guid>
+      <guid>https://penggaolab.github.io/publication/17-de-oliveira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of organophosphorus flame retardant TDCPP on normal human corneal epithelial cells: Implications for human health</title>
-      <link>https://example.com/publication/17-xiang/</link>
+      <link>https://penggaolab.github.io/publication/17-xiang/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-xiang/</guid>
+      <guid>https://penggaolab.github.io/publication/17-xiang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative bioavailability and bioaccessibility of PCBs in soils based on a mouse model and Tenax-improved physiologically-based extraction test</title>
-      <link>https://example.com/publication/17-li-2/</link>
+      <link>https://penggaolab.github.io/publication/17-li-2/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-li-2/</guid>
+      <guid>https://penggaolab.github.io/publication/17-li-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular mechanisms of PFOA-induced toxicity in animals and humans: Implications for health risks</title>
-      <link>https://example.com/publication/17-li-1/</link>
+      <link>https://penggaolab.github.io/publication/17-li-1/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-li-1/</guid>
+      <guid>https://penggaolab.github.io/publication/17-li-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catabolism of (2E)-4-hydroxy-2-nonenal via ω-and ω-1-oxidation stimulated by ketogenic diet</title>
-      <link>https://example.com/publication/14-jin/</link>
+      <link>https://penggaolab.github.io/publication/14-jin/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/14-jin/</guid>
+      <guid>https://penggaolab.github.io/publication/14-jin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slow-Injection Ultrasound-Assisted Emulsiﬁcation–Microextraction for Determination of Phthalate Esters in Water</title>
-      <link>https://example.com/publication/14-li/</link>
+      <link>https://penggaolab.github.io/publication/14-li/</link>
       <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/14-li/</guid>
+      <guid>https://penggaolab.github.io/publication/14-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ionic liquid-based totally organic solvent-free emulsification microextraction coupled with high performance liquid chromatography for the determination of three acaricides in fruit juice</title>
-      <link>https://example.com/publication/13-zhang/</link>
+      <link>https://penggaolab.github.io/publication/13-zhang/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/13-zhang/</guid>
+      <guid>https://penggaolab.github.io/publication/13-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequential dispersive liquid–liquid microextraction for the determination of aryloxyphenoxy‐propionate herbicides in water</title>
-      <link>https://example.com/publication/12-li/</link>
+      <link>https://penggaolab.github.io/publication/12-li/</link>
       <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/12-li/</guid>
+      <guid>https://penggaolab.github.io/publication/12-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://penggaolab.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://penggaolab.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/contact/</link>
+      <link>https://penggaolab.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://penggaolab.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/people/</link>
+      <link>https://penggaolab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/people/</guid>
+      <guid>https://penggaolab.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://example.com/tour/</link>
+      <link>https://penggaolab.github.io/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tour/</guid>
+      <guid>https://penggaolab.github.io/tour/</guid>
       <description></description>
     </item>
     

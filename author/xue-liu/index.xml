@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xue Liu | Gao Research Group</title>
-    <link>https://example.com/author/xue-liu/</link>
-      <atom:link href="https://example.com/author/xue-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/author/xue-liu/</link>
+      <atom:link href="https://penggaolab.github.io/author/xue-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xue Liu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Xue Liu</title>
-      <link>https://example.com/author/xue-liu/</link>
+      <link>https://penggaolab.github.io/author/xue-liu/</link>
     </image>
     
     <item>
       <title>Emerging PAHs in urban soils: concentrations, bioaccessibility, and spatial distribution</title>
-      <link>https://example.com/publication/19-gao-2/</link>
+      <link>https://penggaolab.github.io/publication/19-gao-2/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-gao-2/</guid>
+      <guid>https://penggaolab.github.io/publication/19-gao-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial and temporal changes of P and Ca distribution and fractionation in soil and sediment in a karst farmland-wetland system</title>
-      <link>https://example.com/publication/19-gao-1/</link>
+      <link>https://penggaolab.github.io/publication/19-gao-1/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-gao-1/</guid>
+      <guid>https://penggaolab.github.io/publication/19-gao-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Water extract of indoor dust induces tight junction disruption in normal human corneal epithelial cells</title>
-      <link>https://example.com/publication/18-xiang-2/</link>
+      <link>https://penggaolab.github.io/publication/18-xiang-2/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-xiang-2/</guid>
+      <guid>https://penggaolab.github.io/publication/18-xiang-2/</guid>
       <description></description>
     </item>
     

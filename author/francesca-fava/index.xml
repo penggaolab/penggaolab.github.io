@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesca Fava | Gao Research Group</title>
-    <link>https://example.com/author/francesca-fava/</link>
-      <atom:link href="https://example.com/author/francesca-fava/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://penggaolab.github.io/author/francesca-fava/</link>
+      <atom:link href="https://penggaolab.github.io/author/francesca-fava/index.xml" rel="self" type="application/rss+xml" />
     <description>Francesca Fava</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Francesca Fava</title>
-      <link>https://example.com/author/francesca-fava/</link>
+      <link>https://penggaolab.github.io/author/francesca-fava/</link>
     </image>
     
     <item>
       <title>Multiomic analysis reveals cell-type-specific molecular determinants of COVID-19 severity</title>
-      <link>https://example.com/publication/22-zhang/</link>
+      <link>https://penggaolab.github.io/publication/22-zhang/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-zhang/</guid>
+      <guid>https://penggaolab.github.io/publication/22-zhang/</guid>
       <description></description>
     </item>
     
