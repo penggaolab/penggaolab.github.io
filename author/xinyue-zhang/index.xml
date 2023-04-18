@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinyue Zhang | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/xinyue-zhang/</link>
-      <atom:link href="https://penggaolab.github.io/author/xinyue-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/xinyue-zhang/</link>
+      <atom:link href="https://example.com/author/xinyue-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyue Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Xinyue Zhang</title>
-      <link>https://penggaolab.github.io/author/xinyue-zhang/</link>
+      <link>https://example.com/author/xinyue-zhang/</link>
     </image>
     
     <item>
       <title>Precision environmental health monitoring by longitudinal exposome and multi-omics profiling</title>
-      <link>https://penggaolab.github.io/publication/22-gao/</link>
+      <link>https://example.com/publication/22-gao/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/22-gao/</guid>
+      <guid>https://example.com/publication/22-gao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Exposome in the Era of the Quantified Self</title>
-      <link>https://penggaolab.github.io/publication/21-zhang/</link>
+      <link>https://example.com/publication/21-zhang/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/21-zhang/</guid>
+      <guid>https://example.com/publication/21-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decoding personal biotic and abiotic airborne exposome</title>
-      <link>https://penggaolab.github.io/publication/21-jiang/</link>
+      <link>https://example.com/publication/21-jiang/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/21-jiang/</guid>
+      <guid>https://example.com/publication/21-jiang/</guid>
       <description></description>
     </item>
     

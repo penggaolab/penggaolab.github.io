@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yong Teng | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/yong-teng/</link>
-      <atom:link href="https://penggaolab.github.io/author/yong-teng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/yong-teng/</link>
+      <atom:link href="https://example.com/author/yong-teng/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Teng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Yong Teng</title>
-      <link>https://penggaolab.github.io/author/yong-teng/</link>
+      <link>https://example.com/author/yong-teng/</link>
     </image>
     
     <item>
       <title>Applications and challenges of elemental sulfur, nanosulfur, polymeric sulfur, sulfur composites, and plasmonic nanostructures</title>
-      <link>https://penggaolab.github.io/publication/19-teng/</link>
+      <link>https://example.com/publication/19-teng/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/19-teng/</guid>
+      <guid>https://example.com/publication/19-teng/</guid>
       <description></description>
     </item>
     

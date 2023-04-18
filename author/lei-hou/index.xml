@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lei Hou | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/lei-hou/</link>
-      <atom:link href="https://penggaolab.github.io/author/lei-hou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/lei-hou/</link>
+      <atom:link href="https://example.com/author/lei-hou/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Hou</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Lei Hou</title>
-      <link>https://penggaolab.github.io/author/lei-hou/</link>
+      <link>https://example.com/author/lei-hou/</link>
     </image>
     
     <item>
       <title>Human exposure to polycyclic aromatic hydrocarbons: Metabolomics perspective</title>
-      <link>https://penggaolab.github.io/publication/18-gao-2/</link>
+      <link>https://example.com/publication/18-gao-2/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/18-gao-2/</guid>
+      <guid>https://example.com/publication/18-gao-2/</guid>
       <description></description>
     </item>
     

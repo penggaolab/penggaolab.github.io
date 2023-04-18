@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinran Zhu, MPH | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/xinran-zhu-mph/</link>
-      <atom:link href="https://penggaolab.github.io/author/xinran-zhu-mph/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/xinran-zhu-mph/</link>
+      <atom:link href="https://example.com/author/xinran-zhu-mph/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinran Zhu, MPH</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://penggaolab.github.io/author/xinran-zhu-mph/avatar_huf4ec602048c6eaac661a65a0b668cc59_82293_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/author/xinran-zhu-mph/avatar_huf4ec602048c6eaac661a65a0b668cc59_82293_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xinran Zhu, MPH</title>
-      <link>https://penggaolab.github.io/author/xinran-zhu-mph/</link>
+      <link>https://example.com/author/xinran-zhu-mph/</link>
     </image>
     
   </channel>

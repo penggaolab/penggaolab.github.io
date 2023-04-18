@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yinlong Xiao | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/yinlong-xiao/</link>
-      <atom:link href="https://penggaolab.github.io/author/yinlong-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/yinlong-xiao/</link>
+      <atom:link href="https://example.com/author/yinlong-xiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yinlong Xiao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Yinlong Xiao</title>
-      <link>https://penggaolab.github.io/author/yinlong-xiao/</link>
+      <link>https://example.com/author/yinlong-xiao/</link>
     </image>
     
     <item>
       <title>Biochar promotes arsenic sequestration on iron plaques and cell walls in rice roots</title>
-      <link>https://penggaolab.github.io/publication/22-m-xu-1/</link>
+      <link>https://example.com/publication/22-m-xu-1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/22-m-xu-1/</guid>
+      <guid>https://example.com/publication/22-m-xu-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biochar impact on chromium accumulation by rice through Fe microbial-induced redox transformation</title>
-      <link>https://penggaolab.github.io/publication/20-xu/</link>
+      <link>https://example.com/publication/20-xu/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/20-xu/</guid>
+      <guid>https://example.com/publication/20-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biochar impacts on phosphorus cycling in rice ecosystem</title>
-      <link>https://penggaolab.github.io/publication/19-xu/</link>
+      <link>https://example.com/publication/19-xu/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/19-xu/</guid>
+      <guid>https://example.com/publication/19-xu/</guid>
       <description></description>
     </item>
     

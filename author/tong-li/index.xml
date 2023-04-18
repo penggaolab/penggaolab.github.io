@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tong Li | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/tong-li/</link>
-      <atom:link href="https://penggaolab.github.io/author/tong-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/tong-li/</link>
+      <atom:link href="https://example.com/author/tong-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Tong Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Tong Li</title>
-      <link>https://penggaolab.github.io/author/tong-li/</link>
+      <link>https://example.com/author/tong-li/</link>
     </image>
     
     <item>
       <title>Slow-Injection Ultrasound-Assisted Emulsiﬁcation–Microextraction for Determination of Phthalate Esters in Water</title>
-      <link>https://penggaolab.github.io/publication/14-li/</link>
+      <link>https://example.com/publication/14-li/</link>
       <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/14-li/</guid>
+      <guid>https://example.com/publication/14-li/</guid>
       <description></description>
     </item>
     

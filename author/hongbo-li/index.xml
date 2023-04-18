@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hongbo Li | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/hongbo-li/</link>
-      <atom:link href="https://penggaolab.github.io/author/hongbo-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/hongbo-li/</link>
+      <atom:link href="https://example.com/author/hongbo-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongbo Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Hongbo Li</title>
-      <link>https://penggaolab.github.io/author/hongbo-li/</link>
+      <link>https://example.com/author/hongbo-li/</link>
     </image>
     
     <item>
       <title>Source identification of PAHs in soils based on stable carbon isotopic signatures</title>
-      <link>https://penggaolab.github.io/publication/18-gao-1/</link>
+      <link>https://example.com/publication/18-gao-1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/18-gao-1/</guid>
+      <guid>https://example.com/publication/18-gao-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cellular responses of normal (HL-7702) and cancerous (HepG2) hepatic cells to dust extract exposure</title>
-      <link>https://penggaolab.github.io/publication/18-xiang-1/</link>
+      <link>https://example.com/publication/18-xiang-1/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/18-xiang-1/</guid>
+      <guid>https://example.com/publication/18-xiang-1/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meng-Ying Li | Gao Research Group</title>
-    <link>https://penggaolab.github.io/author/meng-ying-li/</link>
-      <atom:link href="https://penggaolab.github.io/author/meng-ying-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/meng-ying-li/</link>
+      <atom:link href="https://example.com/author/meng-ying-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Meng-Ying Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://penggaolab.github.io/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu057b0d25ebb4c235376dfe11f01c8814_7777_512x512_fill_lanczos_center_3.png</url>
       <title>Meng-Ying Li</title>
-      <link>https://penggaolab.github.io/author/meng-ying-li/</link>
+      <link>https://example.com/author/meng-ying-li/</link>
     </image>
     
     <item>
       <title>Dermal bioaccessibility and cytotoxicity of heavy metals in urban soils from a typical plateau city: Implication for human health</title>
-      <link>https://penggaolab.github.io/publication/22-wang/</link>
+      <link>https://example.com/publication/22-wang/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/22-wang/</guid>
+      <guid>https://example.com/publication/22-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Water extract of indoor dust induces tight junction disruption in normal human corneal epithelial cells</title>
-      <link>https://penggaolab.github.io/publication/18-xiang-2/</link>
+      <link>https://example.com/publication/18-xiang-2/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://penggaolab.github.io/publication/18-xiang-2/</guid>
+      <guid>https://example.com/publication/18-xiang-2/</guid>
       <description></description>
     </item>
     
